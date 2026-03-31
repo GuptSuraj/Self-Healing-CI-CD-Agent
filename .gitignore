@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+node_modules/
+.next/
+artifacts/
+.cache/
+*.db
+*.sqlite
+apps/api/.env
+apps/dashboard/.env.local
